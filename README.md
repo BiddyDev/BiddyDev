@@ -24,8 +24,8 @@
 ---
 
 ## 📫 Connect With Me
-- ✉️ danmolabidemi@email.com
-- 🌐 [LinkedIn](https://linkedin.com/in/biddydev) _(replace with your link)_
+- ✉️ bidemidan10@gmail.com
+- 🌐 [LinkedIn]() _
 
 ---
 
